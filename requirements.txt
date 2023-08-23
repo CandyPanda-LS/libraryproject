@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pymongo==3.6
+motor
+email-validator
+bcrypt
+passlib
